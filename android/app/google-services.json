@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "450560263980",
+    "firebase_url": "https://shope-store.firebaseio.com",
+    "project_id": "shope-store",
+    "storage_bucket": "shope-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450560263980:android:042819cddc5449fc35ce89",
+        "android_client_info": {
+          "package_name": "com.example.storetest1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450560263980-hklc5v9lrjk0md06oijpluaqstjc2e19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCKYPoJzOnsQGkvjgC5LVMSZPNNEEk4aM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450560263980-hklc5v9lrjk0md06oijpluaqstjc2e19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
